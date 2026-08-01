@@ -2,8 +2,8 @@
   "format_version": 2,
   "header": {
     "description": "TikTok: @betmc2411 [https://tiktok.com/@betmc2411]",
-    "name": "BetMC UI [v1-beta 4]",
-    "uuid": "7c4b2dc2-b499-4657-89ac-14389955a2ee",
+    "name": "BetMC UI [v1-beta 4, korean patch]",
+    "uuid": "e8674eee-3ace-438c-b8f6-481d7d34432e",
     "version": [ 0, 0, 4 ],
     "min_engine_version": [ 1, 17, 0 ]
   },
@@ -11,7 +11,7 @@
     {
       "description": "ĐẦU BUỒI",
       "type": "resources",
-      "uuid": "12a95eb2-64b6-4a73-97d9-7b1ea19012a8",
+      "uuid": "d5c3bf50-b26f-4fb7-97de-41c113e66a78",
       "version": [ 0, 0, 4 ]
     }
   ],
@@ -27,11 +27,11 @@
     },
     {
       "type": "label",
-      "text": "EN: §l§cAfter installing this resource pack, please restart the game."
+      "text": "KO: §l§c리소스팩을 적용한 후에는 게임을 재시작 해주세요."
     },
     {
       "type": "label",
-      "text": "VI: §l§cSau khi kích hoạt gói tài nguyên này, vui lòng khởi động lại trò chơi."
+      "text": "EN: §l§cAfter installing this resource pack, please restart the game."
     },
     {
       "type": "label",
