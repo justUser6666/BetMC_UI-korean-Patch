@@ -16,7 +16,7 @@
     "controls": [
       {
         "betmc_credit_user_info@betmc_menu_common.betmc_menu_header": {
-          "$betmc_header_text": "CREDIT USER INFO"
+          "$betmc_header_text": "도와주신 분들"
         }
       },
       {
@@ -50,11 +50,11 @@
       },
       {
         "betmc_credit_user_info@betmc_menu_common.betmc_menu_header": {
-          "$betmc_header_text": "What feature did I take away from the above user?"
+          "$betmc_header_text": "도와주신 분들은 어떤 기능을 만들었나요?"
         }
       },
-      { "betmc_info_0@betmc_menu_common.betmc_sex_text": { "text": "Chunk postion, Durability item, Exp, Boss bar, Progress precent, Chest steal item, Total mainhand item count base code by: Asaki Yuki" }},
-      { "betmc_info_1@betmc_menu_common.betmc_sex_text": { "text": "Custom dialogs, Animation chat base code by: TLGM2308" }}
+      { "betmc_info_0@betmc_menu_common.betmc_sex_text": { "text": "청크 위치, 아이템 내구도, 경험치, 보스 바, 진행률, 상자 털기, 손에 든 아이템 총 개수 구현: Asaki Yuki" }},
+      { "betmc_info_1@betmc_menu_common.betmc_sex_text": { "text": "커스텀 다이얼로그, 애니메이션 채팅 기능 구현: TLGM2308" }}
     ]
   }
 }

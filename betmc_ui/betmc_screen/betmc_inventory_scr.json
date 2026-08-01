@@ -20,14 +20,14 @@
   },
 
   "betmc_inv_x1_mode@betmc_inventory.betmc_inv_mode_toggle": {
-    "$button_text": "Mode: All",
+    "$button_text": "모드: 전체",
     "$toggle_view_binding_name": "betmc_inv_x1_mode",
     "$toggle_group_forced_index": 0,
     "$toggle_default_state": true
   },
 
   "betmc_inv_all_mode@betmc_inventory.betmc_inv_mode_toggle": {
-    "$button_text": "Mode: x1",
+    "$button_text": "모드: x1",
     "$toggle_view_binding_name": "betmc_inv_all_mode",
     "$toggle_group_forced_index": 10
   },

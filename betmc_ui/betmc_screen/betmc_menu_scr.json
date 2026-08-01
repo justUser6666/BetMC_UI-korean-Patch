@@ -3,27 +3,27 @@
 
   "betmc_menu_button_04@betmc_settings_common.section_toggle_base": {
     "$toggle_view_binding_name": "betmc_mucic_button_toggle",
-    "$button_text": "MUSIC PLAYER"
+    "$button_text": "뮤직 플레이어"
   },
 
   "betmc_menu_button_00@betmc_settings_common.section_toggle_base": {
     "$toggle_view_binding_name": "betmc_info_button_toggle",
-    "$button_text": "CREATOR INFO"
+    "$button_text": "크리에이터 정보"
   },
 
   "betmc_menu_button_01@betmc_settings_common.section_toggle_base": {
     "$toggle_view_binding_name": "betmc_feature_button_toggle",
-    "$button_text": "FEATURE"
+    "$button_text": "특징"
   },
 
   "betmc_menu_button_02@betmc_settings_common.section_toggle_base": {
     "$toggle_view_binding_name": "betmc_credit_button_toggle",
-    "$button_text": "CREDIT"
+    "$button_text": "크레딧"
   },
 
   "betmc_menu_button_03@betmc_settings_common.section_toggle_base": {
     "$toggle_view_binding_name": "betmc_changelog_button_toggle",
-    "$button_text": "CHANGELOG"
+    "$button_text": "변경 로그"
   },
 
   "selector_stack_panel@betmc_common.vertical_stack_panel": {
@@ -35,7 +35,7 @@
       {
         "betmc_header_text_0@betmc_menu_common.betmc_menu_header": {
           "ignored": "(not $betmc_enable_music_ui_pack)",
-          "$betmc_header_text": "BETMC OTHER MEMU"
+          "$betmc_header_text": "BETMC 기타 메뉴"
         }
       },
       {
@@ -47,7 +47,7 @@
       { "betmc_padding@betmc_common.empty_panel": { "ignored": "(not $betmc_enable_music_ui_pack)", "size": [ 0, 3 ] }},
       {
         "betmc_header_text_1@betmc_menu_common.betmc_menu_header": {
-          "$betmc_header_text": "BETMC UI INFOMATION"
+          "$betmc_header_text": "BETMC UI 정보"
         }
       },
       {

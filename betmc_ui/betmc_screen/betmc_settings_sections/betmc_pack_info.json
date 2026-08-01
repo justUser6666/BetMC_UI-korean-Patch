@@ -24,10 +24,10 @@
           "$betmc_credit_user_image": "betmc_res/betmc_credit_user/betmc_2411",
           "$betmc_credit_label_controls": [
             { "betmc_name@betmc_menu_common.betmc_menu_label": { "text": "BetMC2411", "$betmc_font_scale_factor": 1.0 }},
-            { "betmc_fb@betmc_menu_common.betmc_menu_label": { "text": "FB: https://www.facebook.com/betmc2411" }},
+            { "betmc_fb@betmc_menu_common.betmc_menu_label": { "text": "Facebook: https://www.facebook.com/betmc2411" }},
             { "betmc_yt@betmc_menu_common.betmc_menu_label": { "text": "TikTok: https://www.tiktok.com/@betmc2411" }},
             { "betmc_github@betmc_menu_common.betmc_menu_label": { "text": "GitHub: https://github.com/betmc2411" }},
-            { "betmc_dis@betmc_menu_common.betmc_menu_label": { "text": "Discord profile: https://discord.com/users/810351710597808161/" }}
+            { "betmc_dis@betmc_menu_common.betmc_menu_label": { "text": "디스코드 프로필: https://discord.com/users/810351710597808161/" }}
           ]
         }
       },
@@ -38,13 +38,13 @@
       },
       {
         "betmc_credit_user_info@betmc_menu_common.betmc_menu_header": {
-          "$betmc_header_text": "THANK YOU <3"
+          "$betmc_header_text": "감사합니다 :)"
         }
       },
-      { "betmc_info_0@betmc_menu_common.betmc_sex_text": { "text": "Thank you for downloading BetMC UI" }},
-      { "betmc_info_0@betmc_menu_common.betmc_sex_text": { "text": "This resource pack is a UI add-on that adds a bit of extra functionality to Minecraft!" }},
-      { "betmc_info_0@betmc_menu_common.betmc_sex_text": { "text": "It does not use any behavior packs and can be used on all but a few servers and multiplayer!" }},
-      { "betmc_info_0@betmc_menu_common.betmc_sex_text": { "text": "§cNOTE: This resource pack is in beta release, it may have bugs in this resource pack." }}
+      { "betmc_info_0@betmc_menu_common.betmc_sex_text": { "text": "BetMC UI를 다운로드 해주셔서 감사합니다" }},
+      { "betmc_info_0@betmc_menu_common.betmc_sex_text": { "text": "이 리소스팩은 마인크래프트에 몇 가지 기능을 추가해 주는 UI 애드온 입니다!" }},
+      { "betmc_info_0@betmc_menu_common.betmc_sex_text": { "text": "이 리소스팩은 어떠한 행동 팩을 사용하지 않기에 대부분의 멀티 서버에서 사용할 수 있습니다!" }},
+      { "betmc_info_0@betmc_menu_common.betmc_sex_text": { "text": "§c주의: 이 리소스팩은 베타 버전으로 버그가 있을 수 있습니다." }}
     ]
   }
 }

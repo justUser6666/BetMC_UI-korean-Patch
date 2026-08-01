@@ -164,13 +164,13 @@
   "exit_button@betmc_start.betmc_main_button": {
     "$pressed_button_name": "button.menu_exit",
     "$betmc_button_icon_textures": "betmc_res/betmc_icon/betmc_exit",
-    "$button_text": "Exit Game"
+    "$button_text": "게임 종료"
   },
 
   "menu_button@betmc_start.betmc_main_button": {
     "$pressed_button_name": "button.menu_buy_game",
     "$betmc_button_icon_textures": "betmc_res/betmc_icon/betmc_menu",
-    "$button_text": "BetMC Menu"
+    "$button_text": "BetMC 메뉴"
   },
 
   "inbox_button@betmc_start.betmc_main_content_button": {

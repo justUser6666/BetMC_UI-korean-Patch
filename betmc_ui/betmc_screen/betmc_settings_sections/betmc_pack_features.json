@@ -18,20 +18,20 @@
           "$betmc_header_text": "FEATURES"
         }
       },
-      { "betmc_features_0@betmc_menu_common.betmc_details_label": { "$betmc_text": "Clean Start Screen" }},
-      { "betmc_features_1@betmc_menu_common.betmc_details_label": { "$betmc_text": "Clean Settiings Screen" }},
-      { "betmc_features_2@betmc_menu_common.betmc_details_label": { "$betmc_text": "Clean Chat Screen" }},
-      { "betmc_features_13@betmc_menu_common.betmc_details_label": { "$betmc_text": "Clean Pause Screen" }},
-      { "betmc_features_3@betmc_menu_common.betmc_details_label": { "$betmc_text": "World and friends screens have been merged into one" }},
-      { "betmc_features_4@betmc_menu_common.betmc_details_label": { "$betmc_text": "Force show import world button on mobile devices" }},
-      { "betmc_features_5@betmc_menu_common.betmc_details_label": { "$betmc_text": "Force show quick play button (it will create a creative world without having to create a manual world)" }},
-      { "betmc_features_6@betmc_menu_common.betmc_details_label": { "$betmc_text": "Bottom chat lock like java chat" }},
-      { "betmc_features_7@betmc_menu_common.betmc_details_label": { "$betmc_text": "Show mainhand durability in Hud Screen" }},
-      { "betmc_features_8@betmc_menu_common.betmc_details_label": { "$betmc_text": "Show inventory item overlay in Hud Screen (press [TAB] to enable, Haven't done it on the mobile yet)"  }},
-      { "betmc_features_9@betmc_menu_common.betmc_details_label": { "$betmc_text": "Show Compass, Clock, Recovery compass on Hud Screen (Recovery compass will be changed after you update to the new version of Minecraft)" }},
-      { "betmc_features_10@betmc_menu_common.betmc_details_label": { "$betmc_text": "Show EXP, Boss percent on Hud Screen" }},
-      { "betmc_features_11@betmc_menu_common.betmc_details_label": { "$betmc_text": "Removes particles when breaking blocks, exploding TNT and when throwing medicine bottles" }},
-      { "betmc_features_12@betmc_menu_common.betmc_details_label": { "$betmc_text": "Full Grass" }}
+      { "betmc_features_0@betmc_menu_common.betmc_details_label": { "$betmc_text": "깨끗한 시작 화면" }},
+      { "betmc_features_1@betmc_menu_common.betmc_details_label": { "$betmc_text": "깨끗한 설정 화면" }},
+      { "betmc_features_2@betmc_menu_common.betmc_details_label": { "$betmc_text": "깨끗한 채팅 화면" }},
+      { "betmc_features_13@betmc_menu_common.betmc_details_label": { "$betmc_text": "깨끗한 일시 중지 화면" }},
+      { "betmc_features_3@betmc_menu_common.betmc_details_label": { "$betmc_text": "하나로 통합 된 세계와 친구 화면" }},
+      { "betmc_features_4@betmc_menu_common.betmc_details_label": { "$betmc_text": "모바일 기기에서 월드 가져오기 강제 활성화" }},
+      { "betmc_features_5@betmc_menu_common.betmc_details_label": { "$betmc_text": "빠른 시작 버튼 강제 활성화 (수동으로 생성할 필요 없이 크리에이티브 월드를 만듭니다.)" }},
+      { "betmc_features_6@betmc_menu_common.betmc_details_label": { "$betmc_text": "채팅 위치 아래로 변경 (자바처럼)" }},
+      { "betmc_features_7@betmc_menu_common.betmc_details_label": { "$betmc_text": "손에 든 아이템 내구도 HUD 표시" }},
+      { "betmc_features_8@betmc_menu_common.betmc_details_label": { "$betmc_text": "인벤토리 HUD 표시 ([Tab]키로 켤 수 있습니다, 모바일에선 잘 모르겠습니다.)"  }},
+      { "betmc_features_9@betmc_menu_common.betmc_details_label": { "$betmc_text": "나침반, 시계, 만회 나치반 HUd 표시 (만회 나침반은 마인크래프트 업데이트 후 변경됩니다.)" }},
+      { "betmc_features_10@betmc_menu_common.betmc_details_label": { "$betmc_text": "경험치, 보스 퍼센트 HUD 표시" }},
+      { "betmc_features_11@betmc_menu_common.betmc_details_label": { "$betmc_text": "블록 파괴, TNT 폭발, 물병 던질 때 파티클 제거" }},
+      { "betmc_features_12@betmc_menu_common.betmc_details_label": { "$betmc_text": "꽉 찬 잔디" }}
     ]
   }
 }

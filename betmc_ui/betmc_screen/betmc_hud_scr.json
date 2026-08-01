@@ -299,7 +299,7 @@
                   {
                     "item_text_label@betmc_hud.betmc_hud_label": {
                       "$betmc_hud_text_offset": [0, -1],
-                      "text": "Bấm để hiển thị hud",
+                      "text": "클릭하여 HUD 표시",
                       "layer": 1
                     }
                   }
