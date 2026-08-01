@@ -10,31 +10,10 @@
     },
     {
       "font_format": "ttf",
-      "font_name": "NotoSans",
+      "font_name": "SUIT",
       "version": 1,
-      "font_file": "betmc_res/betmc_font/NotoSans-Bold",
+      "font_file": "betmc_res/betmc_font/SUIT-Bold",
       "lowPerformanceCompatible": true
-    },
-    {
-      "font_format": "ttf",
-      "font_name": "Nunito",
-      "version": 1,
-      "font_file": "betmc_res/betmc_font/Nunito-Bold",
-      "lowPerformanceCompatible": false
-    },
-    {
-      "font_format": "ttf",
-      "font_name": "ComicRelief",
-      "version": 1,
-      "font_file": "betmc_res/betmc_font/ComicRelief-Bold",
-      "lowPerformanceCompatible": false
-    },
-    {
-      "font_format": "ttf",
-      "font_name": "SamsungOne700",
-      "version": 1,
-      "font_file": "betmc_res/betmc_font/SamsungOne-700",
-      "lowPerformanceCompatible": false
     },
     {
       "font_format": "msdf",
